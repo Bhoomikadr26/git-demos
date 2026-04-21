@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Main branch update
+=======
+Hello Git
+Feature work
+>>>>>>> feature1
